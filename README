@@ -1,0 +1,14 @@
+JSplit
+
+
+Splits and merges files using a UI (2006)
+
+
+- split files into defined chunks
+- re-assembles them later
+
+
+Useful for sending large files by email
+
+
+Screenshot https://github.com/hbt/jsplit/blob/master/jsplit.jpg
